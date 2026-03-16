@@ -1,0 +1,102 @@
+#baseurl = "https://treebeardcreations.com"
+theme = 'beautifulhugo'
+title = "Treebeard Creations"
+metaDateFormat = "yaml"
+DefaultContentLanguage = "en"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+publishDir = "docs"
+
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[Params]
+homeTitle = "Treebeard Creations" # Set a different text for the header on the home page
+  subtitle = "Journeyman crafts, repairs, building & education"
+  mainSections = ["post","posts"]
+  logo = "img/logoTB.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+  [Author]
+  name = "Ben Duxbury"
+  website = "treebeardcreations.com"
+  email = "ben@treebeardcreations.com"
+#  facebook = "username"
+#  github = "treebeardcreations"
+#  gitlab = "treebeardcreations"
+#  bitbucket = "username"
+#  twitter = "username"
+#  reddit = "username"
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+#  500px = "username"
+#  codepen = "username"
+#  mastodon = "url"
+#  kaggle = "username"
+#  weibo = "username"
+#  slack = "username"
+
+[[menu.main]]
+        name = "About Us"
+        url = "about/"
+        weight = 1
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    weight = 3
+
+    [[menu.main]]
+        parent = "projects"
+        name = "CompostLoo"
+        url = "compostLoo"
+        weight = 1
+    [[menu.main]]
+        parent = "projects"
+        name = "Staircase"
+        url = "staircase"
+        weight = 1
+    [[menu.main]]
+        parent = "projects"
+        name = "Cludgy"
+        url = "cludgy"
+        weight = 1
+    [[menu.main]]
+        parent = "projects"
+        name = "Vernacular"
+        url = "vernacular"
+        weight = 1
+
+[[menu.main]]
+    identifier = "sideProjects"
+    name = "Side Projects"
+    weight = 3
+    [[menu.main]]
+        parent = "sideProjects"
+        name = "Carvings"
+        url = "carving"
+        weight = 1
