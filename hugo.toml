@@ -1,4 +1,4 @@
-#baseurl = "https://treebeardcreations.com"
+baseurl = "http://treebeardcreations.github.io/"
 theme = 'beautifulhugo'
 title = "Treebeard Creations"
 metaDateFormat = "yaml"
