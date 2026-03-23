@@ -9,6 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 publishDir = "docs"
 
+# A wee bump
 
 [markup.goldmark.renderer]
 unsafe= true
