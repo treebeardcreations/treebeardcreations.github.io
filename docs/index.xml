@@ -1,54 +1,274 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Treebeard Creations</title>
-    <link>/</link>
-    <description>Recent content on Treebeard Creations</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Compost Toilets</title>
-      <link>/compostloo/</link>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/compostloo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Staircase</title>
-      <link>/staircase/</link>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/staircase/</guid>
-      <description>&lt;h1 id=&#34;finally-upgrading-the-staircase-at-boggart-hall&#34;&gt;Finally upgrading the staircase at Boggart Hall&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-project-for-my-friend-grace&#34;&gt;A project for my friend Grace.&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I met Grace many years ago during what I now call a recharge part of my life, following stressful times and a reset a friend recommended I try a website called &lt;a href=&#34;http://www.thepoosh.org/&#34;&gt;the poosh dot org&lt;/a&gt;, which at the time, (it seems to have shut down now), offered a similar service to woofing (working on organic farms) so you would offer your service in exchange for bed and board, or whatever arrangement suits all parties. So I ended up in Todmorden on a concrete slab cutting huge larch timber frames in exchange for wonderful cakes and buiscuits and a warm dry space to sleep. I intended to stay for a couple of months, get the frame up, meet Barbara Jones of &lt;a href=&#34;https://strawworks.co.uk/&#34;&gt;Straworks&lt;/a&gt; and &lt;a href=&#34;https://schoolofnaturalbuilding.co.uk/&#34;&gt;School of Natural Building&lt;/a&gt; and learn a little about Straw Bale building. This turned out to be almost 18 months initially, staying on to help with the roof structure and a few other bits before setting off to work with Barbara Jones on her next big project, I did however continue to return throughout the following years, each time returning to help on the next room, the kitchen, batroom, office etc. always in exchange for sustanance and warmth. My time over the years with Grace allowed me to live as close as possible to money free and I can safely say that without bills and payslips, tax returns and all the other ridiculous buraucracy I felt about as stress free as I ever have as an adult. If reading this you get an opportunity to travel and meet the people you do volunteering I highly recomend it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vernacular Reconstruction</title>
-      <link>/vernacular/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/vernacular/</guid>
-      <description>&lt;h1 id=&#34;stage-1---from-local-resource-to-traditional-frame&#34;&gt;Stage 1 - From local resource to traditional frame&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;  &#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/vernacular/bodyImages/milling.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/vernacular/bodyImages/milling.jpg&#34; alt=&#34;/images/vernacular/bodyImages/milling.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/vernacular/bodyImages/milling.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/vernacular/bodyImages/frameCutting.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/vernacular/bodyImages/frameCutting.jpg&#34; alt=&#34;/images/vernacular/bodyImages/frameCutting.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/vernacular/bodyImages/frameCutting.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/vernacular/bodyImages/adjustments.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/vernacular/bodyImages/adjustments.jpg&#34; alt=&#34;/images/vernacular/bodyImages/adjustments.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/vernacular/bodyImages/adjustments.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;One of my favourite projects and an honour to be the Carpenter for the project. Originally concieved as a joint venture between Hill Holt architecture student Chris Myk and local community Archaologist Emily Gillott and a community volunteer project at Skylarks Nature reserve in Nottingham. Remains of various structures had been found and excavated on site and from the remains we collaborated to design what we thought could have been built on the site during Saxon times. I shall not go into too much detail on the archaology as I&amp;rsquo;m no expert, but it was interesting speaking to the archaeologists about details they&amp;rsquo;d found in old timber frames that still directly relates to the way we do things today.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anglesey Cludgy</title>
-      <link>/cludgy/</link>
-      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/cludgy/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;A project completed Spring 2012 for my Aunt on Anglesey.&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;  &#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/cludgy/IMG_2384.JPG&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/cludgy/IMG_2384.JPG&#34; alt=&#34;/images/cludgy/IMG_2384.JPG&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/cludgy/IMG_2384.JPG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/cludgy/IMG_2375.JPG&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/cludgy/IMG_2375.JPG&#34; alt=&#34;/images/cludgy/IMG_2375.JPG&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/cludgy/IMG_2375.JPG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/cludgy/IMG_2385.JPG&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/cludgy/IMG_2385.JPG&#34; alt=&#34;/images/cludgy/IMG_2385.JPG&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/cludgy/IMG_2385.JPG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;The brief was to take the dark courtyard and create a seating space with light for more of the day than the current yard offers, there are many other houses and trees around casting shadows that we realised we could mitigate by raising the seating area, a plan was formed to create a decking area above the replacement outhouse, the Cludgy being a name for a similar structure used by my Aunt.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Carvings</title>
-      <link>/carving/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/carving/</guid>
-      <description>&lt;p&gt;A selection of carvings and other small random curiosities.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;  &#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/babyOwlCarving.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/babyOwlCarving.jpg&#34; alt=&#34;/images/carving/babyOwlCarving.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/babyOwlCarving.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/brokenSpoon.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/brokenSpoon.jpg&#34; alt=&#34;/images/carving/brokenSpoon.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/brokenSpoon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/carvingScene.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/carvingScene.jpg&#34; alt=&#34;/images/carving/carvingScene.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/carvingScene.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/dovetailBox.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/dovetailBox.jpg&#34; alt=&#34;/images/carving/dovetailBox.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/dovetailBox.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/elephantCarving1.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/elephantCarving1.jpg&#34; alt=&#34;/images/carving/elephantCarving1.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/elephantCarving1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/elephantCarving2.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/elephantCarving2.jpg&#34; alt=&#34;/images/carving/elephantCarving2.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/elephantCarving2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/headCarving.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/headCarving.jpg&#34; alt=&#34;/images/carving/headCarving.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/headCarving.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/heartSpoon.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/heartSpoon.jpg&#34; alt=&#34;/images/carving/heartSpoon.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/heartSpoon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/loveSpoon1.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/loveSpoon1.jpg&#34; alt=&#34;/images/carving/loveSpoon1.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/loveSpoon1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/mossyPizzaSlice1.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/mossyPizzaSlice1.jpg&#34; alt=&#34;/images/carving/mossyPizzaSlice1.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/mossyPizzaSlice1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/MossyPizzaSlice2.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/MossyPizzaSlice2.jpg&#34; alt=&#34;/images/carving/MossyPizzaSlice2.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/MossyPizzaSlice2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/pizzaSlice.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/pizzaSlice.jpg&#34; alt=&#34;/images/carving/pizzaSlice.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/pizzaSlice.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/replacementChessKnight.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/replacementChessKnight.jpg&#34; alt=&#34;/images/carving/replacementChessKnight.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/replacementChessKnight.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/staircaseFinial.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/staircaseFinial.jpg&#34; alt=&#34;/images/carving/staircaseFinial.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/staircaseFinial.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;//images/carving/treeNymphCarving.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/images/carving/treeNymphCarving.jpg&#34; alt=&#34;/images/carving/treeNymphCarving.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;/images/carving/treeNymphCarving.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>About Treebeard Creations</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description>&lt;h2 id=&#34;ben-duxbury&#34;&gt;Ben Duxbury&lt;/h2&gt;&#xA;&lt;p&gt;Based In Todmorden, West Yorkshire, UK.&lt;/p&gt;&#xA;&lt;p&gt;Sustainable builder and educator focusing on sourcing local materials and recycling as much as possible whilst maintaining affordability.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Workshop drop ins available for repais, builds or training.&lt;/li&gt;&#xA;&lt;li&gt;Craft courses and gatherings listed in Events.&lt;/li&gt;&#xA;&lt;li&gt;Bespoke windows, doors or commisioned furniture.&lt;/li&gt;&#xA;&lt;li&gt;Timber Framing&lt;/li&gt;&#xA;&lt;li&gt;Basic to wierd and wonderful carpentry services.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Or simply get in touch with any random project idea.&lt;/p&gt;&#xA;&lt;p&gt;Phone: 07711234126&#xA;email: &lt;a href=&#34;mailto:ben@treebeardcreations.com&#34;&gt;ben@treebeardcreations.com&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Treebeard Creations</title><link>https://treebeardcreations.github.io/</link><description>Recent content on Treebeard Creations</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://treebeardcreations.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Compost Toilets</title><link>https://treebeardcreations.github.io/compostloo/</link><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate><guid>https://treebeardcreations.github.io/compostloo/</guid><description/></item><item><title>Staircase</title><link>https://treebeardcreations.github.io/staircase/</link><pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate><guid>https://treebeardcreations.github.io/staircase/</guid><description>&lt;h1 id="finally-upgrading-the-staircase-at-boggart-hall"&gt;Finally upgrading the staircase at Boggart Hall&lt;/h1&gt;
+&lt;h2 id="a-project-for-my-friend-grace"&gt;A project for my friend Grace.&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;I met Grace many years ago during what I now call a recharge part of my life, following stressful times and a reset a friend recommended I try a website called &lt;a href="http://www.thepoosh.org/"&gt;the poosh dot org&lt;/a&gt;, which at the time, (it seems to have shut down now), offered a similar service to woofing (working on organic farms) so you would offer your service in exchange for bed and board, or whatever arrangement suits all parties. So I ended up in Todmorden on a concrete slab cutting huge larch timber frames in exchange for wonderful cakes and buiscuits and a warm dry space to sleep. I intended to stay for a couple of months, get the frame up, meet Barbara Jones of &lt;a href="https://strawworks.co.uk/"&gt;Straworks&lt;/a&gt; and &lt;a href="https://schoolofnaturalbuilding.co.uk/"&gt;School of Natural Building&lt;/a&gt; and learn a little about Straw Bale building. This turned out to be almost 18 months initially, staying on to help with the roof structure and a few other bits before setting off to work with Barbara Jones on her next big project, I did however continue to return throughout the following years, each time returning to help on the next room, the kitchen, batroom, office etc. always in exchange for sustanance and warmth. My time over the years with Grace allowed me to live as close as possible to money free and I can safely say that without bills and payslips, tax returns and all the other ridiculous buraucracy I felt about as stress free as I ever have as an adult. If reading this you get an opportunity to travel and meet the people you do volunteering I highly recomend it.&lt;/p&gt;</description></item><item><title>Vernacular Reconstruction</title><link>https://treebeardcreations.github.io/vernacular/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><guid>https://treebeardcreations.github.io/vernacular/</guid><description>&lt;h1 id="stage-1---from-local-resource-to-traditional-frame"&gt;Stage 1 - From local resource to traditional frame&lt;/h1&gt;
+&lt;hr&gt;
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery"&gt;
+	 
+ 
+ &lt;link rel="stylesheet" href="https://treebeardcreations.github.io/css/hugo-easy-gallery.css" /&gt;
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/vernacular/bodyImages/milling.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/vernacular/bodyImages/milling.jpg" alt="/images/vernacular/bodyImages/milling.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/vernacular/bodyImages/milling.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/vernacular/bodyImages/frameCutting.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/vernacular/bodyImages/frameCutting.jpg" alt="/images/vernacular/bodyImages/frameCutting.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/vernacular/bodyImages/frameCutting.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/vernacular/bodyImages/adjustments.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/vernacular/bodyImages/adjustments.jpg" alt="/images/vernacular/bodyImages/adjustments.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/vernacular/bodyImages/adjustments.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;One of my favourite projects and an honour to be the Carpenter for the project. Originally concieved as a joint venture between Hill Holt architecture student Chris Myk and local community Archaologist Emily Gillott and a community volunteer project at Skylarks Nature reserve in Nottingham. Remains of various structures had been found and excavated on site and from the remains we collaborated to design what we thought could have been built on the site during Saxon times. I shall not go into too much detail on the archaology as I&amp;rsquo;m no expert, but it was interesting speaking to the archaeologists about details they&amp;rsquo;d found in old timber frames that still directly relates to the way we do things today.&lt;/p&gt;</description></item><item><title>Anglesey Cludgy</title><link>https://treebeardcreations.github.io/cludgy/</link><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><guid>https://treebeardcreations.github.io/cludgy/</guid><description>&lt;p&gt;&lt;strong&gt;A project completed Spring 2012 for my Aunt on Anglesey.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery"&gt;
+	 
+ 
+ &lt;link rel="stylesheet" href="https://treebeardcreations.github.io/css/hugo-easy-gallery.css" /&gt;
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/cludgy/IMG_2384.JPG');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/cludgy/IMG_2384.JPG" alt="/images/cludgy/IMG_2384.JPG"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/cludgy/IMG_2384.JPG" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/cludgy/IMG_2375.JPG');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/cludgy/IMG_2375.JPG" alt="/images/cludgy/IMG_2375.JPG"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/cludgy/IMG_2375.JPG" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/cludgy/IMG_2385.JPG');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/cludgy/IMG_2385.JPG" alt="/images/cludgy/IMG_2385.JPG"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/cludgy/IMG_2385.JPG" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;The brief was to take the dark courtyard and create a seating space with light for more of the day than the current yard offers, there are many other houses and trees around casting shadows that we realised we could mitigate by raising the seating area, a plan was formed to create a decking area above the replacement outhouse, the Cludgy being a name for a similar structure used by my Aunt.&lt;/p&gt;</description></item><item><title>Carvings</title><link>https://treebeardcreations.github.io/carving/</link><pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate><guid>https://treebeardcreations.github.io/carving/</guid><description>&lt;p&gt;A selection of carvings and other small random curiosities.&lt;/p&gt;
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery"&gt;
+	 
+ 
+ &lt;link rel="stylesheet" href="https://treebeardcreations.github.io/css/hugo-easy-gallery.css" /&gt;
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/babyOwlCarving.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/babyOwlCarving.jpg" alt="/images/carving/babyOwlCarving.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/babyOwlCarving.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/brokenSpoon.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/brokenSpoon.jpg" alt="/images/carving/brokenSpoon.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/brokenSpoon.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/carvingScene.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/carvingScene.jpg" alt="/images/carving/carvingScene.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/carvingScene.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/dovetailBox.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/dovetailBox.jpg" alt="/images/carving/dovetailBox.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/dovetailBox.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/elephantCarving1.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/elephantCarving1.jpg" alt="/images/carving/elephantCarving1.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/elephantCarving1.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/elephantCarving2.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/elephantCarving2.jpg" alt="/images/carving/elephantCarving2.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/elephantCarving2.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/headCarving.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/headCarving.jpg" alt="/images/carving/headCarving.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/headCarving.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/heartSpoon.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/heartSpoon.jpg" alt="/images/carving/heartSpoon.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/heartSpoon.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/loveSpoon1.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/loveSpoon1.jpg" alt="/images/carving/loveSpoon1.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/loveSpoon1.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/mossyPizzaSlice1.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/mossyPizzaSlice1.jpg" alt="/images/carving/mossyPizzaSlice1.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/mossyPizzaSlice1.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/MossyPizzaSlice2.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/MossyPizzaSlice2.jpg" alt="/images/carving/MossyPizzaSlice2.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/MossyPizzaSlice2.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/pizzaSlice.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/pizzaSlice.jpg" alt="/images/carving/pizzaSlice.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/pizzaSlice.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/replacementChessKnight.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/replacementChessKnight.jpg" alt="/images/carving/replacementChessKnight.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/replacementChessKnight.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/staircaseFinial.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/staircaseFinial.jpg" alt="/images/carving/staircaseFinial.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/staircaseFinial.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+ 
+ 
+ &lt;div class="box" &gt;
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"&gt;
+ &lt;div class="img" style="background-image: url('https://treebeardcreations.github.io//images/carving/treeNymphCarving.jpg');"&gt;
+ &lt;img itemprop="thumbnail" src="https://treebeardcreations.github.io/images/carving/treeNymphCarving.jpg" alt="/images/carving/treeNymphCarving.jpg"/&gt;
+ &lt;/div&gt;
+ &lt;a href="https://treebeardcreations.github.io/images/carving/treeNymphCarving.jpg" itemprop="contentUrl"&gt;&lt;/a&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;
+
+
+&lt;/div&gt;</description></item><item><title>About Treebeard Creations</title><link>https://treebeardcreations.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://treebeardcreations.github.io/about/</guid><description>&lt;h2 id="ben-duxbury"&gt;Ben Duxbury&lt;/h2&gt;
+&lt;p&gt;Based In Todmorden, West Yorkshire, UK.&lt;/p&gt;
+&lt;p&gt;Sustainable builder and educator focusing on sourcing local materials and recycling as much as possible whilst maintaining affordability.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Workshop drop ins available for repais, builds or training.&lt;/li&gt;
+&lt;li&gt;Craft courses and gatherings listed in Events.&lt;/li&gt;
+&lt;li&gt;Bespoke windows, doors or commisioned furniture.&lt;/li&gt;
+&lt;li&gt;Timber Framing&lt;/li&gt;
+&lt;li&gt;Basic to wierd and wonderful carpentry services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Or simply get in touch with any random project idea.&lt;/p&gt;
+&lt;p&gt;Phone: 07711234126
+email: &lt;a href="mailto:ben@treebeardcreations.com"&gt;ben@treebeardcreations.com&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

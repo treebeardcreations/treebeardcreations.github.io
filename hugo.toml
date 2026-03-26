@@ -8,6 +8,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 publishDir = "docs"
+canonifyURLs = true
 
 # A wee bump
 
@@ -18,7 +19,7 @@ unsafe= true
 homeTitle = "Treebeard Creations" # Set a different text for the header on the home page
   subtitle = "Journeyman crafts, repairs, building & education"
   mainSections = ["post","posts"]
-  logo = "img/logoTB.png" # Expecting square dimensions
+  logo = "images/logoTB.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
